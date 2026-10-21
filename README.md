@@ -1,8 +1,8 @@
 # Computer Networks Lab Practicals: Cisco Packet Tracer
 
-**Repository**: [github.com/Shubhneet2511/ComputerNetworks-Practicals](https://github.com/Shubhneet2511/ComputerNetworks-Practicals)
+**Repository**: [github.com/Shubhneet2511/ComputerNetworks-Practicals]((https://github.com/anushkakulshrestha006-max/computer-network-practical))
 
-**Author**: Shubhneet Chauhan  (GitHub: [@Shubhneet2511](https://github.com/Shubhneet2511))  
+**Author**: Anushka Kulshrestha  (GitHub: [@anushkakulshrestha006-max](https://github.com/anushkakulshrestha006-max))  
 **Instructor / Evaluator**: `anirudhg@srmist.edu.in`  
 
 ---
